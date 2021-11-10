@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">JavaSecond</string>
+    <string name="hello">Привет Мир!</string>
+    <string name="button">Определить цвет</string>
+    <string name="tvDescriptionTemperament" />
+    <string-array name="colors">
+        <item>Red</item>
+        <item>Orange</item>
+        <item>Yellow</item>
+        <item>Green</item>
+        <item>Blue</item>
+    </string-array>
+    <string-array name="temperament_description">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+
+</resources>
